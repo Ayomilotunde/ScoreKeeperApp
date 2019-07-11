@@ -33,7 +33,7 @@
         android:layout_marginTop="60dp"
         android:text="0"
         android:textColor="@color/colorPrimaryDark"
-        android:textSize="60dp"
+        android:textSize="60sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:layout_conversion_wrapHeight="213"
@@ -64,7 +64,7 @@
         android:layout_marginRight="56dp"
         android:text="0"
         android:textColor="@color/colorPrimaryDark"
-        android:textSize="60dp"
+        android:textSize="60sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:layout_conversion_wrapHeight="213" />
